@@ -5,3 +5,4 @@ Upraged by 2btr
 [+] RenderPlatform
 [+] NoEPDelay
 [+] AutoSword
+[+] HitBox
