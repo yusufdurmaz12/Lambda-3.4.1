@@ -2,10 +2,34 @@
 Upraged by 2btr
 
 [+] InstantMine
-[+] RenderPlatform
+
+
+
+
+
+
 [+] NoEPDelay
+
+
+
+
+
+
+
+
 [+] AutoSword
+
+
+
+
+
+
+
 [+] HitBox
+
+
+
+
 
 NoEPDelay: Removing EnderPearl Cooldown
 
