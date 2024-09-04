@@ -6,8 +6,6 @@ Upraged by 2btr
 
 
 
-
-
 [+] NoEPDelay
 
 
@@ -15,11 +13,7 @@ Upraged by 2btr
 
 
 
-
-
 [+] AutoSword
-
-
 
 
 
