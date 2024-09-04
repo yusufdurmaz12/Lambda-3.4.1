@@ -44,7 +44,3 @@ AutoSword: Auto Get Sword %range
 
 
 InstantMine: Auto ClickMine
-
-
-
-RenderPlatform: Rendering Platform box
